@@ -9,7 +9,7 @@ import services.AccountService;
 
 /**
  *
- * @author alexz
+ * @author Annika Vestre
  */
 public class ResetPasswordServlet extends HttpServlet {
 
